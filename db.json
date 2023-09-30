@@ -1,0 +1,69 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "passCode": "BAOLG2",
+      "uuid": "",
+      "image": "https://madamadam.s3.us-east-2.amazonaws.com/BAOLG-0c83.png"
+    },
+    {
+      "id": 2,
+      "passCode": "BUILDER",
+      "uuid": "",
+      "image": "https://madamadam.s3.us-east-2.amazonaws.com/BUILDER-2f53.png"
+    },
+    {
+      "id": 3,
+      "passCode": "CARDS",
+      "uuid": "",
+      "image": "https://madamadam.s3.us-east-2.amazonaws.com/CARDS-6752_CARD.png"
+    },
+    {
+      "id": 4,
+      "passCode": "CGBA",
+      "uuid": "",
+      "image": "https://madamadam.s3.us-east-2.amazonaws.com/CGBA-13c9.png"
+    },
+    {
+      "id": 5,
+      "passCode": "MCCU",
+      "uuid": "",
+      "image": "https://madamadam.s3.us-east-2.amazonaws.com/MCCU-adec_CARD.png"
+    },
+    {
+      "id": 6,
+      "passCode": "PANDAEMONIC",
+      "uuid": "",
+      "image": "https://madamadam.s3.us-east-2.amazonaws.com/PANDAEMONIC-02ea_CARD.png"
+    },
+    {
+      "id": 7,
+      "passCode": "PLAY",
+      "uuid": "",
+      "image": "https://madamadam.s3.us-east-2.amazonaws.com/PLAY-4249.png"
+    },
+    {
+      "id": 8,
+      "passCode": "SYLFAN",
+      "uuid": "",
+      "image": "https://madamadam.s3.us-east-2.amazonaws.com/SYLFAN-857a_CARD.png"
+    },
+    {
+      "id": 9,
+      "passCode": "SYW5",
+      "uuid": "",
+      "image": "https://madamadam.s3.us-east-2.amazonaws.com/SYW5-ac89_CARD.png"
+    },
+    {
+      "id": 10,
+      "passCode": "WEWALKS",
+      "uuid": "",
+      "image": "https://madamadam.s3.us-east-2.amazonaws.com/WEWALKS-9071_20230821_115243_0000.png"
+    }
+  ]
+}
+
+
+
+
+
